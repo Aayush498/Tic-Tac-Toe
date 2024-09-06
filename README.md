@@ -5,7 +5,7 @@ A classic Tic Tac Toe game implemented in [language/technology]. This project al
 ## Features
 
 - Two-player mode
-- [Additional features, if any]
+- [Winner and Draw popup]
 
 ## Installation
 
